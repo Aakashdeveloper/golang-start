@@ -16,4 +16,7 @@ func main(){
 	var e int = int(d)
 	fmt.Println(e)
 
+	var f int8 = 54
+	var g int16 = f
+
 }
