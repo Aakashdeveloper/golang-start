@@ -19,6 +19,6 @@ func main(){
 	var f int8 = 54
 	var g int16 = f
 
-	var g int63 = f
+	var g int64 = f
 
 }
